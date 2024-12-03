@@ -82,4 +82,4 @@ This project is open-source and available under the MIT License.
 
 ---
 
-📈 _Driving smarter grids through data and innovation!_
+
