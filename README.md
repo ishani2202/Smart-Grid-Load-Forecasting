@@ -69,12 +69,6 @@ Test the interactive model hosted on **GitHub Pages**:
 
 _Note_: Due to size constraints, only LightGBM and CatBoost models are included in the demo. For Random Forest and Transformer models, refer to the provided codebase.
 
----
-
-## 🌍 Ethical and Social Impact
-- **Data Privacy**: The dataset used is anonymous, ensuring no personal identifiers are included.  
-- **Sustainability**: The project supports efficient energy management, reducing wastage and minimizing environmental impact.  
-- **Transparency**: Models and results are fully documented for accountability and reproducibility.  
 
 ---
 
